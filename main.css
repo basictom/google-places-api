@@ -1,0 +1,22 @@
+.names {
+  margin: 10px 50px;
+  padding: 25px;
+  background-color: powderblue;
+  color: slateblue;
+}
+ .names a {
+   text-decoration: none;
+   color: slateblue;
+ }
+  .names a:hover {
+    text-decoration: none;
+  }
+.address {
+  margin: 10px 50px;
+  padding: 25px;
+  background-color: tomato;
+  color: navajowhite;
+}
+.header-btn {
+  margin: 25px;
+}
